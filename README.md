@@ -6,7 +6,6 @@ Repository ini berisi kumpulan project dan tugas pemrograman Java yang saya kerj
 Di dalam repository ini terdapat berbagai macam project, antara lain:
 * **AritmatikaAhmad**: Aplikasi GUI sederhana menggunakan Java Swing untuk operasi aritmatika dasar.
 * **P11_InnerClass**: Implementasi konsep Inner Class pada Object-Oriented Programming (OOP).
-* *(Tambahkan nama project penting lainnya di sini)*...
 
 ## 🚀 Cara Menjalankan Project
 1. Clone repository ini: `git clone https://github.com/AhmadKurnia13/nama-repo-anda.git`
